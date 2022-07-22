@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pulse99r
 - 👀 I’m interested in fullstack web development and FileMaker
-- 🌱 I’m currently learning JavaScript, HTML and CSS
-- 💞️ I’m looking to collaborate on a couple of project concepts for which I believe there is a real market.
+- 🌱 JavaScript, HTML and CSS, Claris FileMaker Database Workflow Applications
+- 💞️ I’m looking to collaborators on a couple of project concepts for which I believe there is a real market.
 - 📫 How to reach me: email
 
 <!---
