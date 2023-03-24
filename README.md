@@ -1,5 +1,10 @@
-- 👀 I’m a graduate of Udacity's NanoDegree program (August 2022 and a Pursuit Fellow (December, 2023 Cohort), in training as Fullstack Software Engineer; existing skills: JavaScript, HTML and CSS, Bootstrap, Claris FileMaker Database Workflow Applications.  I'm also a professional Jazz Giutarist and Music Educator and strive to bring create web development projects that benefit people in the music industry, especially in the area of music education and educating children.
-- 💞️ I’m seeking gainful employment as a Junior Software Engineer and/or to meet people with whom I can collaborate on software development projects.
+12-month Software Engineering Fellowship whose graduates have been hired as developers at leading companies such as Pinterest, Jp Morgan, Spotify.  The project-based curriculum provides hands-on experience with Javascript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, & pair programming.
+
+👀 I’m also a graduate of Udacity's NanoDegree program (August 2022) focusing on Front End Web Development; existing skills: JavaScript, HTML and CSS, Bootstrap, Claris FileMaker Database Workflow Applications.  
+
+I'm also a professional Jazz Giutarist and Music Educator and strive to create web development projects that benefit people in the music industry, especially in the area of music education and educating children.
+
+💞️ I’m seeking gainful employment as a Junior Software Engineer and/or to meet people with whom I can collaborate on software development projects.
 
 <!---
 pulse99r/pulse99r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
