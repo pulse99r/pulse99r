@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="400">
+<img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="400" style="inline-block">
 I am a Fellow at Pursuit, a 12-month Software Engineering Fellowship, based in Queens, NY) whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan, Spotify.  The project-based curriculum provides hands-on experience with Javascript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, & pair programming.
 
 👀 I’m also a graduate of Udacity's NanoDegree program (August 2022) focusing on Front End Web Development; existing skills: JavaScript, HTML and CSS, Bootstrap, Claris FileMaker Database Workflow Applications.  
