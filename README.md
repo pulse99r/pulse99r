@@ -1,4 +1,16 @@
-<img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="400" style="inline-block">
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="400" style="inline-block"></td>
+     <td>I am a Fellow at Pursuit, a 12-month Software Engineering Fellowship, based in Queens, NY) whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan, Spotify.  The project-based curriculum provides hands-on experience with Javascript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, & pair programming.</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/Screenshot_1582745092.png"></td>
+    <td valign="top"><img src="screenshots/Screenshot_1582745125.png"></td>
+    <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td>
+  </tr>
+ </table>
 I am a Fellow at Pursuit, a 12-month Software Engineering Fellowship, based in Queens, NY) whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan, Spotify.  The project-based curriculum provides hands-on experience with Javascript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, & pair programming.
 
 👀 I’m also a graduate of Udacity's NanoDegree program (August 2022) focusing on Front End Web Development; existing skills: JavaScript, HTML and CSS, Bootstrap, Claris FileMaker Database Workflow Applications.  
