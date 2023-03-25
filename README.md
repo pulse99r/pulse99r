@@ -11,3 +11,4 @@ I'm also a professional Jazz Giutarist and Music Educator and strive to create w
 pulse99r/pulse99r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Alt text](https://scontent-lga3-2.xx.fbcdn.net/v/t31.18172-8/1891386_1481707162040717_245889562_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=rjAdGbC32eYAX9D_7Xc&_nc_ht=scontent-lga3-2.xx&oh=00_AfD3nT7OOnaXiYSF-xQ5CBIOQYrIwjzOZR1ZiDyHnhaIMg&oe=6445DD13) "Wizardry on the guitar!")
