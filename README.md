@@ -23,7 +23,9 @@
   <tr>
   <td>
 💞️ I’m seeking gainful employment as a Junior Software Engineer and/or to meet people with whom I can collaborate on software development projects.</td>
-    <td><img src="https://scontent-lga3-2.xx.fbcdn.net/v/t31.18172-8/1891386_1481707162040717_245889562_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=rjAdGbC32eYAX9D_7Xc&_nc_ht=scontent-lga3-2.xx&oh=00_AfD3nT7OOnaXiYSF-xQ5CBIOQYrIwjzOZR1ZiDyHnhaIMg&oe=6445DD13" width="300">   </td>
+   </tr>
+   <tr>
+  <td><img src="https://scontent-lga3-2.xx.fbcdn.net/v/t31.18172-8/1891386_1481707162040717_245889562_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=rjAdGbC32eYAX9D_7Xc&_nc_ht=scontent-lga3-2.xx&oh=00_AfD3nT7OOnaXiYSF-xQ5CBIOQYrIwjzOZR1ZiDyHnhaIMg&oe=6445DD13" width="300">   </td>
   </tr>
  </table>
 
