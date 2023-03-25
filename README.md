@@ -3,7 +3,6 @@
   <tr>
     <td><img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="400" style="inline-block"></td>
      <td>I am a Fellow at Pursuit, a 12-month Software Engineering Fellowship, based in Queens, NY) whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan, Spotify.  The project-based curriculum provides hands-on experience with Javascript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, & pair programming.</td>
-     <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
     <td valign="top"><img src="screenshots/Screenshot_1582745092.png"></td>
