@@ -4,7 +4,7 @@
     <td><img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="300"></td>
   </tr>
   <tr>
-    <td>I am a <b>Fellow at Pursuit</b>, a 12-month Software Engineering Fellowship, (based in Queens, NY) 
+    <td>I am a <b>Fellow at Pursuit</b>, a 12-month, Google-funded Software Engineering Fellowship, (based in Queens, NY) 
       whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan,
       Spotify and Peloton.  The project-based curriculum provides hands-on experience with Javascript, HTML, CSS, 
       Node, Express, React/Redux, PostgreSQL, APIs, Git, GitHub, Data Structures, Algorithms, sprints, Agile, 
