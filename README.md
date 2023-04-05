@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/97370716/227693602-c3be56bd-555d-41bf-b926-3a2f81ada38c.jpeg" width="800px"></td>
   </tr>
   <tr>
     <td>I am a <b>Fellow at Pursuit</b>, a 12-month, Google-funded Software Engineering Fellowship, (based in Queens, NY) 
